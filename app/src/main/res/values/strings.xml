@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica_RSS</string>
+    <string name="hello">Hello World!!!</string>
+    <string name="con">Congreso del estado</string>
+    <string name="fin">El Financiero</string>
+    <string name="lider">Lider en  Deportes</string>
+    <string name="cargar">Presine el boton para cargar datos</string>
+    <string name="enviar">Enviar</string>
+</resources>
+
+
+
